@@ -70,3 +70,9 @@ Pushing the Docker Image to ECR
     Write-Output $responseContent
     ```
 
+## Tests
+{"statusCode": 200, "body": "{\"action\": \"The pirates of \", \"text\": \"\\nSure, here are ten generic word suggestions based on the given string:\\n\\n1. Treasure\\n2. Adventure\\n3. Sea\\n4. Ship\\n5. Island\\n6. Captain\\n7. Crew\\n8. Cannon\\n9. Plunder\\n10. Davy Jones\"}"}
+
+{"statusCode": 200, "body": "{\"action\": \"Harry Potter and the \", \"text\": \"\\nSure, here are 10 generic word suggestions based on the context of the given string:\\n\\n1. Hogwarts\\n2. Quidditch\\n3. Dumbledore\\n4. Ron Weasley\\n5. Hermione Granger\\n6. Voldemort\\n7. Snape\\n8. Malfoy\\n9. Gryffindor\\n10. Slytherin\"}"}
+
+
