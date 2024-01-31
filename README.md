@@ -1,5 +1,8 @@
 # Next Word Prediction using LLM inside AWS Lambda
 
+![Diagram](AWSdiagram.png)
+
+
 ## Description
 This project focuses on Next Word Prediction using LLM, LangChain, GPT4ALL and containers.
 
