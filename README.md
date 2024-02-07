@@ -2,6 +2,9 @@
 
 ![Diagram](AWSdiagram.png)
 
+## Authors
+Anna Krol
+Lam Truong Nguyen
 
 ## Description
 This project focuses on Next Word Prediction using LLM, LangChain, GPT4ALL and containers.
