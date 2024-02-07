@@ -3,7 +3,7 @@
 ![Diagram](AWSdiagram.png)
 
 ## Authors
-Anna Krol
+Anna Krol,
 Lam Truong Nguyen
 
 ## Description
